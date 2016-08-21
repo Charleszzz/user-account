@@ -36,8 +36,6 @@ Thumbs.db
 # src/main/resources-env/dev/configure.properties
 src/main/webapp/WEB-INF/classes
 
-src/main/webapp/WEB-INF/classes
-
 # package ignore (optional)
 # *.jar
 # *.war
@@ -48,3 +46,4 @@ src/main/webapp/WEB-INF/classes
 /gulpfile.js
 /package.json
 /node_modules/
+*/target
