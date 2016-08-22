@@ -15,7 +15,7 @@
     <dependencies>
         <dependency>
             <groupId>com.charles.ua</groupId>
-            <artifactId>ua-service</artifactId>
+            <artifactId>ua-manager</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>

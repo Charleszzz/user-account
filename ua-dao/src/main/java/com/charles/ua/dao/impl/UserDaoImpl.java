@@ -2,7 +2,7 @@ package com.charles.ua.dao.impl;
 
 import com.charles.ua.dao.BaseDao;
 import com.charles.ua.dao.UserDao;
-import com.charles.ua.pojo.User;
+import com.charles.ua.domain.pojo.User;
 import org.springframework.stereotype.Component;
 
 /**

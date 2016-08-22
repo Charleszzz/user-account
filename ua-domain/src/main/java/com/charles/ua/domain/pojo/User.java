@@ -1,10 +1,10 @@
-package com.charles.ua.pojo;
+package com.charles.ua.domain.pojo;
 
 import java.util.Date;
 
 /**
  * Author: zhangyong
- * Date: 16/8/21
+ * Date: 16/8/22
  */
 public class User {
 
@@ -76,18 +76,5 @@ public class User {
 
     public void setUpdateTime(Date updateTime) {
         this.updateTime = updateTime;
-    }
-
-    @Override
-    public String toString() {
-        return "User{" +
-                "id=" + id +
-                ", userName='" + userName + '\'' +
-                ", email='" + email + '\'' +
-                ", phone='" + phone + '\'' +
-                ", password='" + password + '\'' +
-                ", createTime=" + createTime +
-                ", updateTime=" + updateTime +
-                '}';
     }
 }

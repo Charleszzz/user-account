@@ -7,9 +7,9 @@
         <setting name="logImpl" value="LOG4J"/>
     </settings>
     <typeAliases>
-        <typeAlias type="com.charles.ua.domain.User" alias="User" />
+        <typeAlias type="com.charles.ua.domain.pojo.User" alias="User" />
     </typeAliases>
     <mappers>
-        <package name="mapper"/>
+        <mapper resource="mapper/User-mapper.xml" />
     </mappers>
 </configuration>

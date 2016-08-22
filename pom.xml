@@ -12,7 +12,7 @@
 
     <modules>
         <module>ua-dao</module>
-        <module>ua-service</module>
+        <module>ua-manager</module>
         <module>ua-web</module>
         <module>ua-utils</module>
         <module>ua-domain</module>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ua-service</artifactId>
+    <artifactId>ua-manager</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>
